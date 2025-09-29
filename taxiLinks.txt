@@ -1,0 +1,4 @@
+jan 2019
+    green https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-01.parquet
+Feb 2019
+    green https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2019-02.parquet
